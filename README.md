@@ -163,4 +163,4 @@ Algorithmic trading carries risk. Validate strategies with paper accounts or sma
 
 ## Contact
 For questions or technical support, please contact:
-- Telegram: [@nightFly](https://t.me/itsnightfly)
+- Telegram: [@nightFly](https://t.me/its0xnightfly)
